@@ -51,7 +51,3 @@ Este projeto utiliza o Playwright para capturar telas, códigos-fonte e imagens 
 - `sanitize_filename(url)`: Gera um nome de pasta seguro para Windows a partir da URL.
 - `download_images(page, images_folder)`: Encontra e baixa todas as imagens da página.
 - `capture_page_data(url, browser)`: Captura de tela, código-fonte e imagens de uma página da web.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
