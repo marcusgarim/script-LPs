@@ -11,9 +11,11 @@ os.makedirs(main_output_dir, exist_ok=True)
 
 # Lista de URLs para capturar
 urls = [
-    "https://lp.nelogica.com.br/pr-trf-lp-aws-profit",
-    "https://lp.nelogica.com.br/cbt-nelogica",
-    "https://lp.nelogica.com.br/pr-capt-lp-smart-summit"
+    "https://lp.nelogica.com.br/pr-lead-typ-guiamotiontracker", 
+    "https://lp.nelogica.com.br/pr-capt-typ-plataforma-profit",
+    "https://lp.nelogica.com.br/ty-sala-ao-vivo-ultra",
+    "https://lp.nelogica.com.br/lista-de-espera-bookmap",
+    "https://lp.nelogica.com.br/profit-kit-mini-contratos-typ"
 ]
 
 def sanitize_filename(url):
